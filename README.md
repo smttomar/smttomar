@@ -43,21 +43,27 @@ Chandra Pratap Singh Full Stack Developer MERN Next.js Developer India
 
 ## 🚀 Featured Projects
 
-<p align="center">
+### 🔹 AI Powered Code Editor  
+💻 Full-stack AI code editor with real-time AI assistance  
 
-<a href="https://github.com/smttomar/AI-Powered-Code-Editor">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smttomar&repo=AI-Powered-Code-Editor&theme=tokyonight" />
-</a>
+[![GitHub](https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github)](https://github.com/smttomar/AI-Powered-Code-Editor)
+[![Live](https://img.shields.io/badge/Live-0A66C2?style=for-the-badge&logo=vercel)](https://ai-powered-code-editor.vercel.app/)
 
-<a href="https://github.com/smttomar/GigFlow">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smttomar&repo=GigFlow&theme=tokyonight" />
-</a>
+---
 
-<a href="https://github.com/smttomar/SAAS-App">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smttomar&repo=SAAS-App&theme=tokyonight" />
-</a>
+### 🔹 GigFlow - Freelance Marketplace Platform  
+💼 Full-stack job marketplace platform   
 
-</p>
+[![GitHub](https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github)](https://github.com/smttomar/GigFlow)
+[![Live](https://img.shields.io/badge/Live-0A66C2?style=for-the-badge&logo=vercel)](https://gig-flow-two-sandy.vercel.app)
+
+---
+
+### 🔹 SaaS Web Application  
+🚀 Scalable SaaS platform  
+
+[![GitHub](https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github)](https://github.com/smttomar/SAAS-App)
+[![Live](https://img.shields.io/badge/Live-0A66C2?style=for-the-badge&logo=vercel)](https://saas-app-gamma-ten.vercel.app/home)
 
 ---
 
