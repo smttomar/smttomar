@@ -66,13 +66,13 @@ Built scalable SaaS applications using Next.js and modern tech stack.
 
 ## 📊 GitHub Stats
 
-![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true)
+![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?smttomar&show_icons=true)
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username)
+![GitHub Streak](https://streak-stats.demolab.com?smttomar)
 
 ---
 
