@@ -39,7 +39,10 @@ I specialize in building scalable web applications using the **MERN Stack and Ne
 
 ## 🏆 Projects
 
-### 🔹 Freelance Marketplace Platform
+### 🔹 AI Powered Code Editor
+Full-stack AI code editor built with Next.js, Monaco, WebContainers, and real-time AI assistance.
+
+### 🔹 GigFlow-Freelance Marketplace Platform
 A full-stack platform where users can post jobs and hire freelancers.
 
 ### 🔹 Authentication System
@@ -58,21 +61,21 @@ Built scalable SaaS applications using Next.js and modern tech stack.
 
 ## 📫 Connect With Me
 
-- LinkedIn: (Add your link)
-- GitHub: https://github.com/your-username
-- Email: (your email here)
+- LinkedIn: https://www.linkedin.com/in/cptomar/
+- GitHub: https://github.com/smttomar
+- Email: sumitsnghtmr@gmail.com
 
 ---
 
 ## 📊 GitHub Stats
 
-![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?smttomar&show_icons=true)
+![Chandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=smttomar&show_icons=true)
 
 ---
 
 ## 🔥 Contribution Streak
 
-![GitHub Streak](https://streak-stats.demolab.com?smttomar)
+![GitHub Streak](https://streak-stats.demolab.com?user=smttomar)
 
 ---
 
