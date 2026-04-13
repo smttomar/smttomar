@@ -29,6 +29,7 @@ Chandra Pratap Singh Full Stack Developer MERN Next.js Developer India
 <p align="left">
 <a href="https://www.linkedin.com/in/cptomar/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
 <a href="https://github.com/smttomar" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+<a href="https://x.com/smttomarr" target="blank"><img align="center" src="https://skillicons.dev/icons?i=X" height="40" /></a>
 </p>
 
 ---
