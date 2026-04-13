@@ -1,84 +1,90 @@
-# Hi, I'm Chandra Pratap Singh 👋
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Chandra%20Pratap%20Singh&fontSize=40&fontColor=ffffff"/>
+</p>
+<!-- 🔥 SEO Boost Line -->
+Chandra Pratap Singh Full Stack Developer MERN Next.js Developer India
 
-### 🚀 Full Stack Developer | MERN Stack | Next.js
+<h1 align="center">Hi 👋, I'm Chandra Pratap Singh</h1>
+<h3 align="center">🚀 Full Stack Developer | MERN | Next.js</h3>
 
-I am **Chandra Pratap Singh**, a passionate **Full Stack Developer from Lucknow, India 🇮🇳**.  
-I specialize in building scalable web applications using the **MERN Stack and Next.js**.
+<!-- Typing Animation -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=Full+Stack+Developer;MERN+Stack+Developer;Next.js+Developer;Open+Source+Enthusiast&center=true&width=500&height=50">
+</p>
 
 ---
 
 ## 🧑‍💻 About Me
 
-- 🔭 Currently working on **Full Stack Web Applications**
+- 🔭 I’m currently working on **Full Stack Web Apps**
 - 🌱 Learning **Advanced Next.js & System Design**
-- 💡 Passionate about building **real-world scalable projects**
-- 🎯 Goal: Become a **Top Full Stack Developer & Software Engineer**
+- 💬 Ask me about **MERN Stack, Next.js, APIs**
+- 📍 Based in **Lucknow, India 🇮🇳**
+- 🎯 Goal: **Top Software Engineer**
+
+---
+
+## 🌐 Connect With Me
+
+<p align="left">
+<a href="https://www.linkedin.com/in/cptomar/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" height="40" /></a>
+<a href="https://github.com/smttomar" target="blank"><img align="center" src="https://skillicons.dev/icons?i=github" height="40" /></a>
+</p>
 
 ---
 
 ## ⚡ Tech Stack
 
-### 🚀 Frontend
-- React.js
-- Next.js
-- TypeScript
-- Tailwind CSS
-
-### ⚙️ Backend
-- Node.js
-- Express.js
-- REST APIs
-- Authentication (JWT)
-
-### 🗄️ Database
-- MongoDB
-- MySQL
-- PostgreSQL
+<p align="left">
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,mysql,postgres,tailwind,git" />
+</p>
 
 ---
 
-## 🏆 Projects
+## 🚀 Featured Projects
 
-### 🔹 AI Powered Code Editor
-Full-stack AI code editor built with Next.js, Monaco, WebContainers, and real-time AI assistance.
+- 🔹 AI Powered Code Editor 
+- 🔹 GigFlow-Freelance Marketplace Platform  
+- 🔹 Authentication System (JWT + Roles)  
+- 🔹 SaaS Applications with Next.js  
 
-### 🔹 GigFlow-Freelance Marketplace Platform
-A full-stack platform where users can post jobs and hire freelancers.
-
-### 🔹 Authentication System
-Secure authentication system using JWT and role-based access.
-
-### 🔹 SaaS Web Applications
-Built scalable SaaS applications using Next.js and modern tech stack.
-
----
-
-## 🌐 Portfolio
-
-👉 https://portfolio-sand-beta-23.vercel.app
-
----
-
-## 📫 Connect With Me
-
-- LinkedIn: https://www.linkedin.com/in/cptomar/
-- GitHub: https://github.com/smttomar
-- Email: sumitsnghtmr@gmail.com
+👉 Check all projects here:  
+https://github.com/smttomar
 
 ---
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=smttomar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smttomar&show_icons=true&theme=tokyonight" />
+</p>
 
 ---
 
-## 🔥 Contribution Streak
+## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=smttomar)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=smttomar&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=smttomar&theme=tokyonight" />
+</p>
+
+---
+
+## 👀 Profile Views
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=smttomar&label=Profile%20views&color=0e75b6&style=flat" />
+</p>
 
 ---
 
 ## 💡 Fun Fact
 
-I love building projects, solving problems, and continuously improving my development skills 🚀
+I love building real-world projects and solving problems 🚀
