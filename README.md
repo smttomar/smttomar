@@ -46,6 +46,7 @@ Chandra Pratap Singh Full Stack Developer MERN Next.js Developer India
 ### 🔹 AI Powered Code Editor  
 💻 Full-stack AI code editor with real-time AI assistance  
 
+<img width="1470" height="799" alt="image" src="https://github.com/user-attachments/assets/5cfd3d12-edb5-4bb8-9fd1-d06be6db2025" />
 [![GitHub](https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github)](https://github.com/smttomar/AI-Powered-Code-Editor)
 [![Live](https://img.shields.io/badge/Live-0A66C2?style=for-the-badge&logo=vercel)](https://ai-powered-code-editor.vercel.app/)
 
@@ -54,6 +55,7 @@ Chandra Pratap Singh Full Stack Developer MERN Next.js Developer India
 ### 🔹 GigFlow - Freelance Marketplace Platform  
 💼 Full-stack job marketplace platform   
 
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/d6c1a191-28bf-4e35-b7b7-35b79ff41ab8" />
 [![GitHub](https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github)](https://github.com/smttomar/GigFlow)
 [![Live](https://img.shields.io/badge/Live-0A66C2?style=for-the-badge&logo=vercel)](https://gig-flow-two-sandy.vercel.app)
 
@@ -62,6 +64,7 @@ Chandra Pratap Singh Full Stack Developer MERN Next.js Developer India
 ### 🔹 SaaS Web Application  
 🚀 Scalable SaaS platform  
 
+<img width="1470" height="799" alt="image" src="https://github.com/user-attachments/assets/ba1250e2-84b9-456e-a3d3-15c1f007ba49" />
 [![GitHub](https://img.shields.io/badge/Code-000?style=for-the-badge&logo=github)](https://github.com/smttomar/SAAS-App)
 [![Live](https://img.shields.io/badge/Live-0A66C2?style=for-the-badge&logo=vercel)](https://saas-app-gamma-ten.vercel.app/home)
 
