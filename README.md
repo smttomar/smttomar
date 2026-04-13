@@ -43,13 +43,31 @@ Chandra Pratap Singh Full Stack Developer MERN Next.js Developer India
 
 ## 🚀 Featured Projects
 
-- 🔹 AI Powered Code Editor 
-- 🔹 GigFlow-Freelance Marketplace Platform  
-- 🔹 Authentication System (JWT + Roles)  
-- 🔹 SaaS Applications with Next.js  
+<p align="center">
 
-👉 Check all projects here:  
-https://github.com/smttomar
+<a href="https://github.com/smttomar/AI-Powered-Code-Editor">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smttomar&repo=AI-Powered-Code-Editor&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/smttomar/GigFlow">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smttomar&repo=GigFlow&theme=tokyonight" />
+</a>
+
+<a href="https://github.com/smttomar/SAAS-App">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=smttomar&repo=SAAS-App&theme=tokyonight" />
+</a>
+
+</p>
+
+---
+
+## 🌐 Portfolio
+
+<p align="center">
+  <a href="https://portfolio-sand-beta-23.vercel.app">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
 
 ---
 
