@@ -69,7 +69,7 @@ Built scalable SaaS applications using Next.js and modern tech stack.
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=smttomar&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=smttomar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
 
 ---
 
