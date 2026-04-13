@@ -69,11 +69,9 @@ https://github.com/smttomar
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Contribution Graph
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=smttomar&theme=tokyonight" />
-</p>
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smttomar&theme=tokyo-night)
 
 ---
 
