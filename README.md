@@ -39,7 +39,7 @@ Chandra Pratap Singh Full Stack Developer MERN Next.js Developer India
 ## ⚡ Tech Stack
 
 <p align="left">
-<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,mysql,postgres,tailwind,git" />
+<img src="https://skillicons.dev/icons?i=react,nextjs,ts,nodejs,express,mongodb,postgres,tailwind,git" />
 </p>
 
 ---
