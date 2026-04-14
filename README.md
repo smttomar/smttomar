@@ -66,7 +66,7 @@ Chandra Pratap Singh Full Stack Developer MERN Next.js Developer India
 
 ---
 
-### 🔹 SaaS Web Application  
+### 🔹 Cloudinary Video Compressor & Dashboard  
 🚀 Scalable SaaS platform  
 
 <img width="1470" height="799" alt="image" src="https://github.com/user-attachments/assets/ba1250e2-84b9-456e-a3d3-15c1f007ba49" />
