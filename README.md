@@ -16,10 +16,10 @@ Chandra Pratap Singh Full Stack Developer MERN Next.js Developer India
 
 ## 🧑‍💻 About Me
 
-- 🔭 I’m currently working on **Full Stack Web Apps**
-- 🌱 Learning **Advanced Next.js & System Design**
-- 💬 Ask me about **MERN Stack, Next.js, APIs**
-- 📍 Based in **Lucknow, India 🇮🇳**
+- I’m currently working on **Full Stack Web Apps**
+- Learning **Advanced Next.js & System Design**
+- Ask me about **MERN Stack, Next.js, APIs**
+- Based in **Lucknow**
 
 ---
 
