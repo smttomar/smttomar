@@ -77,7 +77,7 @@ Chandra Pratap Singh Full Stack Developer MERN Next.js Developer India
 
 ## 🌐 Portfolio
 
-<img width="1470" height="799" alt="image" src="https://github.com/user-attachments/assets/313e619c-eaef-451c-bf13-67eb52654c80" />
+<img width="1470" height="835" alt="image" src="https://github.com/user-attachments/assets/940c42b7-af0d-46c6-8fee-39d71f50b720" />
 
 <p align="center">
   <a href="https://portfolio-sand-beta-23.vercel.app">
