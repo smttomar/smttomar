@@ -89,9 +89,9 @@ Chandra Pratap Singh Full Stack Developer MERN Next.js Developer India
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=smttomar&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
