@@ -100,20 +100,6 @@ Chandra Pratap Singh Full Stack Developer MERN Next.js Developer India
 
 ---
 
-## 📈 Contribution Graph
-
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=smttomar&theme=tokyo-night)
-
----
-
-## 👀 Profile Views
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=smttomar&label=Profile%20views&color=0e75b6&style=flat" />
-</p>
-
----
-
 ## 💡 Fun Fact
 
 I love building real-world projects and solving problems 🚀
